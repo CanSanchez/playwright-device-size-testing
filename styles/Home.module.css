@@ -177,7 +177,7 @@
 
 @media (max-width: 820px) {
   .container {
-    background-color: blue;
+    background-color: rgb(0, 0, 255);
   }  
 }
 
